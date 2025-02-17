@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **PyTorch, MongoDB, Docker, Nginx**
 
-- 👨‍💻 All of my projects are available at [https://andyx0.github.io/](https://andyx0.github.io/)
+- 👨‍💻 All of my projects are available at [https://andyxxu.github.io/](https://andyxxu.github.io/)
 
 - 💬 Ask me about **Python, Java, Algorithms, REST APIs**
 
@@ -87,4 +87,4 @@
   </a>
 </p>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=andyx0&show_icons=true&locale=en&layout=compact" alt="andyx0" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=andyxxu&show_icons=true&locale=en&layout=compact" alt="andyxxu" /></p>
